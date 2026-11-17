@@ -186,8 +186,8 @@ Please note a page must have a series of Headings (#, ##, ###) for the Table of 
 ---  
 
 1. Open the `index.html` file for editing.
-2. Locate the line `<title>Docsify Open Courses Starter Kit</title>` and change the text between the title tags to be displayed as the site name on the Browser tab
-3. Locate the line `name: 'Docsify Open Courses Starter Kit',` and change the text between the quotes to be displayed as the site name at the top of the Docsify Sidebar
+2. Locate the line `<title>Open Course Space Courses</title>` and change the text between the title tags to be displayed as the site name on the Browser tab
+3. Locate the line `name: 'Open Course Space Courses',` and change the text between the quotes to be displayed as the site name at the top of the Docsify Sidebar
 4. Save the `index.html` file and reload site.
 
 🎨 Sidebar Icons
