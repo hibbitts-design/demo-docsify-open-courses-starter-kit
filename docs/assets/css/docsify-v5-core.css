@@ -866,8 +866,10 @@ body:has(.markdown-section:empty) :is(aside.sidebar, button.sidebar-toggle) {
   padding-top: .75rem;
 }
 
-/* Guide card lists – used on their own, as in <div class="card-list-guides">, like any card-list
-   card-list-guides: a Guides page's list of guides; card-list-sections: a guide home's list of its sections (parts)
+/* Guide and course card lists – used on their own, as in <div class="card-list-guides">, like any card-list
+   card-list-guides: a Guides page's list of guides; card-list-courses: a Courses page's list of courses (the same
+   layout for now, with its own name so guides and courses can be styled apart later); card-list-sections: a guide
+   home's list of its sections (parts)
    Both show three cards in a row on wide screens (two on tablets, one on phones).
    Optional, with any card-list: card-lines-2 or card-lines-3 – each card's text is trimmed to two or three lines, so
    the cards stay a similar size (a paragraph with a link button is left whole, so the button always shows); leave
