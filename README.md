@@ -13,7 +13,7 @@ Docsify sites use client-side rendering, which means your content will not be in
 📸 Docsify Open Courses Screenshot
 ---
 ![ Docsify Open Courses Starter Kit](screenshot.png)
-_Figure 1. Docsify Open Courses Starter Kit. Explore a demo at [hibbitts-design.github.io/docsify-open-courses-starter-kit/](https://hibbitts-design.github.io/docsify-open-courses-starter-kit/#/)_
+_Figure 1. Docsify Open Courses Starter Kit. Explore a demo at [hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/](https://hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/#/)_
 
 📚 The Courses Page and Each Course
 ---
@@ -120,50 +120,50 @@ To only display Docsify page content, add the following to a Docsify page URL:
 `?embedded=true`
 
 Example standard Docsify page:  
-https://hibbitts-design.github.io/docsify-open-courses-starter-kit/#/cpt363-basic/resources  
+https://hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/#/cpt363-basic/resources  
 
 Example Docsify page displaying only page content (i.e., no sidebar is shown):  
-https://hibbitts-design.github.io/docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true  
+https://hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true  
 
 To optionally show a page Table of Contents (based on included Headers), use the following:
 
 `?embedded=true&toc=true`
 
 Example Docsify page displaying only page content:  
-https://hibbitts-design.github.io/docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true  
+https://hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true  
 
 Example Docsify page displaying only page content with a page Table of Contents included:  
-https://hibbitts-design.github.io/docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true&toc=true  
+https://hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true&toc=true  
 
 To optionally override the hiding of the navbar when displaying only page content, use the following:
 
 `?embedded=true&navbar=true`
 
 Example Docsify page displaying only page content:  
-https://hibbitts-design.github.io/docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true  
+https://hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true  
 
 Example Docsify page displaying only page content with the navbar still displayed:  
-https://hibbitts-design.github.io/docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true&navbar=true  
+https://hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true&navbar=true  
 
 To optionally hide the 'Edit this Page' link, use the following:
 
 `?embedded=true&hidegitlink=true`
 
 Example Docsify page displaying only page content:  
-https://hibbitts-design.github.io/docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true  
+https://hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true  
 
 Example Docsify page displaying only page content with the 'Edit this Page' link hidden:  
-https://hibbitts-design.github.io/docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true&hidegitlink=true  
+https://hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true&hidegitlink=true  
 
 To optionally show the footer ('_footer.md' file), use the following:
 
 `?embedded=true&footer=true`
 
 Example Docsify page without footer:  
-https://hibbitts-design.github.io/docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true  
+https://hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true  
 
 Example Docsify page with footer shown:  
-https://hibbitts-design.github.io/docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true&footer=true  
+https://hibbitts-design.github.io/demo-docsify-open-courses-starter-kit/#/cpt363-basic/resources?embedded=true&footer=true  
 
 🖼 Presenting your Docsify Page Content as Standalone Webpages
 ---  
