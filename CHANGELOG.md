@@ -20,6 +20,7 @@
 * Updated ReadMe with a note to keep each course's "What's Happening This Week" current, as Docsify doesn't update it by date
 * Each page has its own Browser tab title, such as "Week 1 | CPT-363" or "Module 2 | CPT363-1"
 * The ← → keys go to the previous and next page
+* Badges have WCAG AA contrast: the default background is a little darker
 
 ## [v1.0.1](https://github.com/hibbitts-design/docsify-open-courses-starter-kit/releases/tag/v1.0.1)
 ### 11/17/2026
