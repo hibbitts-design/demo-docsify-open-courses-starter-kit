@@ -6,9 +6,11 @@
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Docsify Discord Chat" />
 </a>
 
-Docsify sites draw their pages in the browser, with page addresses after a `#`, so search engines like Google, Bing, or DuckDuckGo index little more than the home page.
-
 > A starter kit for an open site with one course or many, built with [Docsify](https://docsify.js.org/) and published free on GitHub Pages: a Courses page with a card for each course, and each course with its own home page, modules or weekly units, sidebar and navbar. Its three example courses come from [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space), its Grav twin – the free [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org) moves courses between the two.
+
+**Rather skip GitHub Pages?** The same kind of site works with [Docsify-This](https://docsify-this.net), straight from your Markdown files in any public repo – start from its [Courses Site template](https://github.com/hibbitts-design/docsify-this-courses-site). Choose this kit when you want your own web address and full control of styling; a site started with Docsify-This moves to it as it is.
+
+Docsify sites draw their pages in the browser, with page addresses after a `#`, so search engines like Google, Bing, or DuckDuckGo index little more than the home page.
 
 📸 Docsify Open Courses Screenshot
 ---
